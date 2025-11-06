@@ -1,0 +1,16 @@
+[2025-11-06 00:53:21.428] Loaded 9 blocked keywords from file
+[2025-11-06 00:53:21.451] Application started
+[2025-11-06 00:53:21.462] Form loaded
+[2025-11-06 00:53:21.478] Starting async navigation to: https://www.bing.com/
+[2025-11-06 00:53:21.528] Attempting navigation to: https://www.bing.com/
+[2025-11-06 00:53:21.808] Successfully navigated to: https://www.bing.com/
+[2025-11-06 00:53:22.039] Document completed loading: https://www.bing.com/
+[2025-11-06 00:53:23.014] Attempting navigation to: https://www.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+[2025-11-06 00:53:23.634] Attempting navigation to: https://login.live.com/oauth20_authorize.srf?client_id=077c9b95-2f57-4442-8872-134fcc08fcb3&scope=openid+profile+email+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2fidentity%2fidtokenv2&response_type=code&state=CfDJ8BJecyNyfxpMtsfDoM3OqQvzGOSpY068ROOmUBzvPesrHY7W6RjaiBM2HcNejTQOvcjXeLyPrmJ_b0DIatUx8NIAXu1U5guZU4buc0QSRIFiSKCc4q9jEe51PZT4jucLSFx1Zw6QwcOvV0AdER4p5E2DTsRCuIydT2rm4E7Oy_YcHTBtFUIA3RYUxWCMCA9oNTTfc0-jrbv3MpVIz08qsEro_DEoCpvVjr0TRxHQQ-8dElfi3zvl-5E9fOAPwn3QDFqwY1ySBD907Trk2ET3zblDagnXadftD0zY71aLl1tSoi9ovqhs4NdjtUHyymGgw4Y1J8biXcbSc5b3ecJtNmhaI7L96loT_VZMpl_xw1PvNuAClF7EFPNZr0s8EVJvFVrOmJZrPeb7aZh5fTQoDy2QWaiuxnrNUYZkpHVxq6gk&response_mode=form_post&nonce=638979800034596866.NTRhMTY2NWItZTZlOC00OTVmLWE5NmItODE2NWNiZGUzODQ0ZDFjNGQ1M2EtOTUxOS00MmJkLWI3YWMtOTZmNzY2ZjM3Nzk0&prompt=none&code_challenge=SHUEu6dVjOwVwq7zOPOYRVtjp7b0_uw20NuCItgvNe4&code_challenge_method=S256&x-client-SKU=ID_NET9_0&x-client-Ver=8.12.1.0&uaid=fde4103e02a544bc9d956cc308154cb4&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKLQhfM6sL6_sHnDuTULwEBG_ZUakdFwBsodQFQrZZ_8GsblMZaMOlGojDnjyb71dYdo6CoxE3gSdVbOniILPnqgISZVPBI-Fy0XPYvxFsDPAjKD-lV4MJIHbODVyh_F-9yyzzsOTWrtTTPpufYMJ-DS8nLTts9ycYk8-JB_XFnszs2TDFLscg5zTOH3mlS1n7-jeZy6lixFMg-KacSW7MgCAA&jshs=0
+[2025-11-06 00:53:24.035] Successfully navigated to: https://www.bing.com/
+[2025-11-06 00:53:24.037] Document completed loading: https://www.bing.com/
+[2025-11-06 00:53:24.039] Attempting navigation to: https://www.bing.com/identity/idtokenv2
+[2025-11-06 00:53:24.145] Successfully navigated to: https://www.bing.com/
+[2025-11-06 00:53:24.146] Document completed loading: https://www.bing.com/
+[2025-11-06 00:53:27.036] Application closing
+[2025-11-06 00:53:27.037] Saved 9 blocked keywords to file
